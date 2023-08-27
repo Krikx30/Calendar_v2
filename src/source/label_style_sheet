@@ -1,0 +1,12 @@
+ID | fontType | fontSize | fontColor | alignment
+                OR
+ID -> must contain "Icon" word | iconList
+
+yearLabel;Helvetica;70;#36454F;0
+months;Helvetica;18;#807D75;0
+selected_month;Helvetica;18,#B33F40,0
+monthDays_dayNumber;Helvetica;40;#807D75;0
+monthDays_commentIcon;src/assets/no_comment.png;src/assets/comment_available.png
+monthDays_quantity;Helvetica;20;#807D75;0
+monthDays_dosage;Helvetica;20;#807D75;0
+keywords;Impact;18;#807D75;0
